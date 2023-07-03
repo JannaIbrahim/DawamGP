@@ -67,10 +67,10 @@ You can checkout the blockchain development [Here]()
 # :woman_student:Project Team
 The project was created by a group form Girls Faculty of Engineering Systems and Computers Department Al-azhar university under the supervision of Dr. Momtaz Alkholy
 **Team:**
-+ Omnia Essam Elden: @omniaEsam
-+ Janna Ibrahim Elsheshtawy: @JannaIbrahim
-+ Doaa Amin Sami: @DoaaAmin99
-+ Salma Ahmed Ali: @SalmaAhmedAli
-+ Mai Hassan: @mai709
-+ Hager Abobaker: @hagarabobakr
++ **Omnia Essam Elden**: @omniaEsam
++ **Janna Ibrahim Elsheshtawy**: @JannaIbrahim
++ **Doaa Amin Sami**: @DoaaAmin99
++ **Salma Ahmed Ali**: @SalmaAhmedAli
++ **Mai Hassan**: @mai709
++ **Hager Abobaker**: @hagarabobakr
 
