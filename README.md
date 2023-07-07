@@ -30,7 +30,7 @@ The project UI/UX was implemented using Figma and AdobeXD
 The website is used for navigating the waqfs saved on the blockcahin and searching through them 
 also it provide a project discription it was developed using **ReactJS** 
 
-You can check the website Front-End implementation [Here](https://github.com/omniaEsam/DAWAM-GP.git)
+You can check the website Front-End implementation [Here](https://github.com/DoaaAmin99/DAWAM-GP-PROJECT)
 
 ## 3. Web Dashboard
 The dashboard is for the platform management it allow users to enter the documents that needs to be stored and then after the admins aproval NFTs would be created from the documents and would be stored on the Blockchain
