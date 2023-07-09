@@ -19,6 +19,12 @@ each described in the following sections
 # :notebook:Project Documentation
 you can find the full graduation project documentation [Here!](https://github.com/DoaaAmin99/GP-Book.git)
 
+# Project final discussion presentation 
+Graduation project final discussion was held at the 9th of July 2023 and you can checkout dissertation presentation made with Prezi from [Here!](https://prezi.com/view/21os4YRnElvqH8cbPzCg/)
+
+## Extra Presentation:
+Checkout more presentations for the Graduation project throughout its development across the year [Here](https://drive.google.com/drive/folders/1f9feXW3qErV2cLOno131qJBdZdOMVtoM)
+
 # :rocket:Project Implementation
 ## 1. UI/UX
 The project UI/UX was implemented using Figma and AdobeXD
