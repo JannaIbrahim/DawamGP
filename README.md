@@ -54,7 +54,7 @@ You can checkout the mobile development [Here](https://github.com/SalmaAhmedAl/d
 The platform backend is implemented as an **API** (Application Programming Interface) that is accessed from the website, mobile app and dashboard
 The API was developed using **C# Asp.Net Core**
 
-You can checkout the Back-End implementation [Here](https://github.com/JannaIbrahim/DawamGP-Backend.git)
+You can checkout the Back-End implementation [Here](https://github.com/JannaIbrahim/DawamGP-BackendAPI.git)
 
 ## 6. Database
 The database is developed using Microsoft SQL Server the tables were created using code first style
